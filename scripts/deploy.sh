@@ -193,3 +193,4 @@ fi
 echo
 echo "Post-deployment: remember to check logs, monitoring dashboards and alerting."
 echo "Done."
+BUG
